@@ -4,6 +4,9 @@
 
 Me chamo Iago Boettge, tenho 20 anos e sou natural do Rio Grande do Sul. Concluí o curso técnico em informática no QI Faculdade & Escola Técnica. Atualmente, estou cursando Ciência da Computação no La Salle. Me identifiquei na área do TI, principalmente na área de desenvolvimento. Podem ter contato comigo por meio do [LinkedIn ](https://www.linkedin.com/in/iago-boetgge/) ou por [E-mail ](iagoboettge@gmail.com) 
 
+Link dos meus projetos:
+-[Meu Currículo como site responsivo](https://iagoboettge.github.io/IagoBoettge/)
+
 
 ---
 
